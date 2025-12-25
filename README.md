@@ -23,8 +23,7 @@ It provides a clear overview of key performance indicators (KPIs) and enables us
 
 ## Tools Used
 - Microsoft Power BI  
-- CSV Dataset  
-- DAX for calculations  
+- Exccel Dataset   
 
 ## Notes
 This project was created for learning and demonstration purposes as part of the Power BI workshop.
