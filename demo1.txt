@@ -1,0 +1,31 @@
+ Financial Performance :
+
+KPIs :
+
+Units Sold
+
+Total Sales
+
+Total COGS
+
+Profit
+
+Charts :
+
+Line Chart → Sales by Month
+
+Bar Chart → Sales by City
+
+Bar Chart → Sales by Product
+
+Donut Chart → Discounts  Categories
+
+Tree Map → Sales by Manager
+
+Slicers :
+
+Year
+
+City
+
+Product
